@@ -21,7 +21,7 @@ qt_internal_qtbase_run_autodetect()
 
 # This call will load any provided cmake toolchain file.
 project(QtBase
-    VERSION "${QT_REPO_MODULE_VERSION}"
+    VERSION "6.7.2"
     DESCRIPTION "Qt Base Libraries"
     HOMEPAGE_URL "https://qt.io/"
     LANGUAGES CXX C ASM
